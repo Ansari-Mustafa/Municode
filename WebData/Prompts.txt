@@ -1,0 +1,6 @@
+What is the minimum trees per lot for lot_size lot?
+how much of the lot should be shade trees?
+what plant or trees can not be removed?
+what percentage should be native plants?
+what percentage of palm can be planted?
+mandatory setbacks on lot in foot?
